@@ -17,6 +17,8 @@
 
 ### 8.1 云计算与企业软件
 
+<a id="microsoft-china"></a>
+
 #### 1. 微软（中国）有限公司
 
 | 维度 | 详情 |
@@ -29,6 +31,8 @@
 | **参考来源** | [Microsoft Careers China](https://careers.microsoft.com)、微信公众号"微软招聘"、[牛客网·微软中国校招](https://www.nowcoder.com/enterprise/160) |
 
 ---
+
+<a id="oracle-china"></a>
 
 #### 2. 甲骨文（中国）软件系统有限公司
 
@@ -43,6 +47,8 @@
 
 ---
 
+<a id="sap-china"></a>
+
 #### 3. 思爱普（中国）有限公司
 
 | 维度 | 详情 |
@@ -55,6 +61,8 @@
 | **参考来源** | [SAP Careers](https://www.sap.com/careers.html)、微信公众号"SAP招聘"、[牛客网·SAP思爱普](https://www.nowcoder.com/enterprise/259905) |
 
 ---
+
+<a id="ibm-china"></a>
 
 #### 4. 国际商业机器（中国）有限公司
 
@@ -69,6 +77,8 @@
 
 ---
 
+<a id="cisco-china"></a>
+
 #### 5. 思科系统（中国）网络技术有限公司
 
 | 维度 | 详情 |
@@ -81,6 +91,8 @@
 | **参考来源** | [Cisco Jobs](https://jobs.cisco.com/)、猎聘搜索"思科"、高校就业信息网 |
 
 ---
+
+<a id="adobe-china"></a>
 
 #### 6. 奥多比系统软件（北京）有限公司
 
@@ -95,6 +107,8 @@
 
 ---
 
+<a id="autodesk-china"></a>
+
 #### 7. 欧特克软件（中国）有限公司
 
 | 维度 | 详情 |
@@ -108,6 +122,8 @@
 
 ---
 
+<a id="vmware-china"></a>
+
 #### 8. 威睿信息技术（中国）有限公司（Broadcom / 原 VMware）
 
 | 维度 | 详情 |
@@ -120,6 +136,8 @@
 | **参考来源** | [Broadcom Careers](https://www.broadcom.com/company/careers)。**建议获取途径**：关注 LinkedIn·Broadcom China / VMware China 前员工动态，或通过行业人脉了解最新组织调整情况 |
 
 ---
+
+<a id="dell-china"></a>
 
 #### 9. 戴尔（中国）有限公司
 
@@ -135,6 +153,8 @@
 ---
 
 ### 8.2 互联网搜索与广告技术
+
+<a id="google-china"></a>
 
 #### 10-11. 谷歌信息技术（中国）有限公司 / 咕果信息技术（上海）有限公司 / 澎集信息技术（上海）有限公司
 
@@ -153,6 +173,8 @@
 
 ### 8.3 消费电子与互联网生态
 
+<a id="apple-china"></a>
+
 #### 12. 苹果电子产品商贸（北京）有限公司
 
 | 维度 | 详情 |
@@ -166,6 +188,8 @@
 
 ---
 
+<a id="sony-china"></a>
+
 #### 13. 索尼（中国）有限公司
 
 | 维度 | 详情 |
@@ -178,6 +202,8 @@
 | **参考来源** | [Sony Careers](https://www.sony.com/en/SonyInfo/Careers/)、应届生求职网·索尼中国、索尼官网招聘页面 |
 
 ---
+
+<a id="samsung-china"></a>
 
 #### 14. 三星（中国）投资有限公司
 
@@ -194,6 +220,8 @@
 
 ### 8.4 电商与交易平台
 
+<a id="ebay-china"></a>
+
 #### 15. 亿贝电子商务技术营运（上海）有限公司（eBay）
 
 | 维度 | 详情 |
@@ -207,6 +235,8 @@
 
 ---
 
+<a id="booking-china"></a>
+
 #### 16. 博缤信息技术（上海）有限公司（Booking.com）
 
 | 维度 | 详情 |
@@ -219,6 +249,8 @@
 | **参考来源** | [Booking Careers](https://careers.booking.com/)、猎聘搜索"博缤"、LinkedIn·Booking.com Shanghai |
 
 ---
+
+<a id="tesla-china"></a>
 
 #### 17. 特斯拉（上海）有限公司
 
@@ -235,6 +267,8 @@
 
 ### 8.5 金融科技与支付
 
+<a id="paypal-china"></a>
+
 #### 18. 贝宝支付（北京）有限公司（PayPal）
 
 | 维度 | 详情 |
@@ -247,6 +281,8 @@
 | **参考来源** | [PayPal Careers](https://jobs.paypal.com/)、仟寻招聘（moseeker.com）搜索"PayPal"、LinkedIn·PayPal Shanghai |
 
 ---
+
+<a id="mastercard-china"></a>
 
 #### 19. 万事网联信息技术（北京）有限公司（Mastercard 合资）
 
@@ -263,6 +299,8 @@
 
 ### 8.6 在线游戏与娱乐
 
+<a id="ubisoft-china"></a>
+
 #### 20. 上海育碧电脑软件有限公司（Ubisoft）
 
 | 维度 | 详情 |
@@ -275,6 +313,8 @@
 | **参考来源** | [育碧中国招聘](https://www.ubisoft.com/zh-cn/company/careers)、微信公众号"育碧招聘"、BOSS直聘/猎聘搜索"育碧" |
 
 ---
+
+<a id="ea-china"></a>
 
 #### 21. 艺电计算机软件（上海）有限公司（Electronic Arts）
 
@@ -289,6 +329,8 @@
 
 ---
 
+<a id="activision-shanghai"></a>
+
 #### 22. 动视上海（Activision Shanghai）
 
 | 维度 | 详情 |
@@ -302,6 +344,8 @@
 
 ---
 
+<a id="playstation-china"></a>
+
 #### 23. 玩站匹五文化娱乐发展（上海）有限公司（PlayStation 中国）
 
 | 维度 | 详情 |
@@ -314,6 +358,8 @@
 | **参考来源** | **建议获取途径**：关注 Sony Interactive Entertainment 全球招聘页面 + LinkedIn 搜索"PlayStation Shanghai" + 关注国内游戏行业媒体（如游侠网/GameRes/游戏葡萄）的企业动态报道 |
 
 ---
+
+<a id="nintendo-china"></a>
 
 #### 24. 神游科技（中国）有限公司（iQue / Nintendo）
 
@@ -330,6 +376,8 @@
 
 ### 8.7 视频通信与协作
 
+<a id="zoom-china"></a>
+
 #### 25-27. Zoom 中国（软视视频软件·杭州 / Zoom 视频通讯·上海 / Zoom 软件·武汉）
 
 | 维度 | 详情 |
@@ -345,6 +393,8 @@
 
 ### 8.8 半导体与 AI / 高性能计算
 
+<a id="intel-china"></a>
+
 #### 28. 英特尔（中国）有限公司
 
 | 维度 | 详情 |
@@ -357,6 +407,8 @@
 | **参考来源** | [英特尔中国校园招聘](https://chinacampus.jobs.intel.cn)、微信公众号"英特尔招聘在线"、高校就业信息网·Intel 校招简章 |
 
 ---
+
+<a id="nvidia-china"></a>
 
 #### 29. 英伟达半导体科技（上海）有限公司（NVIDIA）
 
@@ -371,6 +423,8 @@
 
 ---
 
+<a id="qualcomm-china"></a>
+
 #### 30. 高通无线通信技术（中国）有限公司（Qualcomm）
 
 | 维度 | 详情 |
@@ -383,6 +437,8 @@
 | **参考来源** | [Qualcomm Careers](https://www.qualcomm.com/company/careers)、北京大学 BBS·高通实习招聘帖、猎聘/BOSS直聘搜索"高通" |
 
 ---
+
+<a id="amd-china"></a>
 
 #### 31. 超威半导体（中国）有限公司（AMD）
 
@@ -399,6 +455,8 @@
 
 ### 8.9 互联网社交 / 技术服务
 
+<a id="meta-china"></a>
+
 #### 32. 脸书科技（杭州）有限公司（Meta）
 
 | 维度 | 详情 |
@@ -414,6 +472,8 @@
 
 ### 8.10 综合 IT 与硬件
 
+<a id="hp-china"></a>
+
 #### 33. 惠普贸易（上海）有限公司（HP Inc.）
 
 | 维度 | 详情 |
@@ -426,6 +486,8 @@
 | **参考来源** | [HP Careers](https://jobs.hp.com)、猎聘/BOSS直聘搜索"惠普贸易"。**建议获取途径**：通过领英关注 HP 大中华区员工动态 |
 
 ---
+
+<a id="samsung-sds-china"></a>
 
 #### 34. 三星数据系统（中国）有限公司（Samsung SDS）
 
